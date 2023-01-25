@@ -129,10 +129,10 @@ img {
 }
 /* hero */
 .section-hero {
+  max-width: 1440px;
   background: var(--main-background);
   background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
   background-repeat: no-repeat;
-  background-size: 1440px , cover;
   padding-top: 188px;
   padding-bottom: 188px;
   text-align: center;
